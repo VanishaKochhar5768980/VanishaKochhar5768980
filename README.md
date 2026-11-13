@@ -12,9 +12,10 @@ I'm interested in using data, technology and analytical thinking to understand b
 - Data-Driven Decision Making
 
 ### 🛠️ Technical Skills
-- **Programming:** R, SQL, Python
+- **Programming:** Python, R, SQL
+- **Data Visualisation:** Tableau, ggplot2
 - **Data Analysis:** Microsoft Excel
-- **Tools:** GitHub, RStudio, Jupyter Notebook 
+- **Tools:** RStudio, Jupyter Notebook, Google Colab, GitHub
 
 ### 🎓 Education
 - **University of Warwick** – MSc Business Analytics and AI
