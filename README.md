@@ -21,7 +21,14 @@ I'm interested in using data, technology and analytical thinking to understand b
 - **Christ University** – Bachelor's degree
 
 ### 📌 Projects
-- Statistical Analysis of London Underground Temperature Data using R
-- SQL and Analytics Engineering coursework
+
+**1. Retail Product Pricing Analysis Using R**
+- Exploratory data analysis using R and ggplot2.
+- Product pricing patterns and visualisations.
+[View Project](https://github.com/VanishaKochhar5768980/R-Data-Analysis-Project)
+
+**2. Business Analytics – Python, SQL & Google Colab**
+- Developing practical skills in business data analysis and visualisation.
+
 
 More projects and practical work will be added as I continue developing my analytical and technical skills.
